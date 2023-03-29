@@ -1,0 +1,58 @@
+.container{
+width: 50%;
+/* height: 100vh; */
+align-items: center;
+border: 2px solid black;
+margin-left: 25%;
+margin-right: 25%;
+text-align: center;
+background: linear-gradient(rgb(149, 220, 149),rgb(222, 177, 93));
+position: relative;
+
+}
+.nameInpt{
+    margin: 20px;
+}
+.createBtn{
+    background-color: rgb(195, 234, 96);
+    font-size: small;
+    border-radius: 50px;
+}
+.taskBtn{
+font-size: 16px;
+background-color:rgb(195, 234, 96) ;
+border-radius: 50px;
+margin-left: 20px;
+margin-top: 30px;
+}
+.slp{
+    position: absolute;
+    left:110px;
+}
+.tsknm{
+    position: absolute;
+    left: 110px;
+    
+}
+.slct{
+    position:absolute;
+    left: 235px;
+}
+.timespnt{
+    position: absolute;
+    left: 110px;
+}
+.desc{
+    position: absolute;
+    left: 110px;
+}
+label{
+    margin-top: 20px;
+}
+input{
+    margin-top: 20px;
+}
+.inpttimespent{
+    margin-bottom: 20px;
+}
+
